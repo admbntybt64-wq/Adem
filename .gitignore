@@ -1,0 +1,6 @@
+build/
+audio/music_bed.wav
+tools/__pycache__/
+documentary_final_git.mp4
+*.png
+audio/
