@@ -1,0 +1,7 @@
+build/
+audio/music_bed.wav
+tools/__pycache__/
+documentary_final.mp4
+documentary_preview_720p.mp4
+*.png
+audio/
